@@ -1,7 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 <h1 align="center">Hi 👋, I'm Kaznarah A.Ph</h1>
 
-<h3 align="center">💻 Software Developer, enjoy using JAVA / TYPESCRIPT / RUST</h3>
+<h3 align="center">
+  
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=300&color=2D2FF7&random=false&width=435&lines=%F0%9F%92%BB+Enjoy+using+JAVA;%F0%9F%92%BB+Enjoy+using+TYPESCRIPT;%F0%9F%92%BB+Enjoy+using+RUST)](https://git.io/typing-svg)
+</h3>
+
+
+
 <img align="right" alt="coding" width="520" src="https://images.ctfassets.net/5965pury2lcm/5X0n22oLx9Awk3BjCp9dPf/db04623529aa360a47389a8cad4aa53e/homepage-work-animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amigoskazz&label=Profile%20views&color=0e75b6&style=flat" alt="amigoskazz" /> </p>
