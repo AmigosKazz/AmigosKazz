@@ -1,6 +1,61 @@
 ![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 <h1 align="center">Hi 👋, I'm Kaznarah A.Ph</h1>
-<h3 align="center">💻 Software Developer, enjoy using JAVA / TYPESCRIPT / RUST</h3>
+
+<div class="typewriter" id="animated-text">
+  <h1>Software Developer, enjoy using </h1>
+</div>
+
+<style>
+    /* GLOBAL STYLES */
+    body {
+      background: #333;
+      padding-top: 5em;
+      display: flex;
+      justify-content: center;
+    }
+
+    /* DEMO-SPECIFIC STYLES */
+    .typewriter h1 {
+      color: #fff;
+      font-family: monospace;
+      overflow: hidden; /* Ensures the content is not revealed until the animation */
+      border-right: .15em solid orange; /* The typewriter cursor */
+      white-space: nowrap; /* Keeps the content on a single line */
+      margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+      letter-spacing: .15em; /* Adjust as needed */
+      animation:
+        typing 3.5s steps(30, end),
+        blink-caret .5s step-end infinite;
+    }
+
+    /* The typing effect */
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+
+    /* The typewriter cursor effect */
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: orange }
+    }
+
+    /* The text changing effect */
+    @keyframes change {
+        0% {content: "JAVA";}
+        33% {content: "TYPESCRIPT";}
+        66% {content: "RUST";}
+        100% {content: "JAVA";}
+    }
+
+    #animated-text h1::after {
+        content: "JAVA";
+        animation-name: change;
+        animation-duration: 3s;
+        animation-iteration-count: infinite;
+    }
+</style>
+
 <img align="right" alt="coding" width="520" src="https://images.ctfassets.net/5965pury2lcm/5X0n22oLx9Awk3BjCp9dPf/db04623529aa360a47389a8cad4aa53e/homepage-work-animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amigoskazz&label=Profile%20views&color=0e75b6&style=flat" alt="amigoskazz" /> </p>
@@ -18,7 +73,7 @@
 <p align="left">
 <a href="https://codepen.io/kaznarah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kaznarah1" height="30" width="40" /></a>
 <a href="https://twitter.com/kaznarah_andr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaznarah_andr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kaznarah andrinarivo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kaznarah andrinarivo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaznarah andrinarivo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kaznarah Andrinarivo" height="30" width="40" /></a>
 <a href="https://fb.com/Kaznarah A. Ph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaznarah a. ph" height="30" width="40" /></a>
 <a href="https://instagram.com/andrinarivokaznarah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrinarivokaznarah" height="30" width="40" /></a>
 <a href="https://discord.gg/1081263835639451709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1081263835639451709" height="30" width="40" /></a>
