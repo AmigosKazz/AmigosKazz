@@ -7,12 +7,12 @@
 </h3>
 
 
-
 <img align="right" alt="coding" width="500" src="https://images.ctfassets.net/5965pury2lcm/5X0n22oLx9Awk3BjCp9dPf/db04623529aa360a47389a8cad4aa53e/homepage-work-animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amigoskazz&label=Profile%20views&color=0e75b6&style=flat" alt="amigoskazz" /> </p>
 
 - 📫 How to reach me **kaznarahandrinarivo@gmail.com**
+- Ask me about softeware/game developement
 
 <br><br>
 
@@ -38,11 +38,6 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amigoskazz&" alt="amigoskazz" /></p>
 ### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
