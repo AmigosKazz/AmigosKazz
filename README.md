@@ -1,5 +1,14 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap" rel="stylesheet">
+
 ![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
-<h1 align="center">Hi 👋, I'm Kaznarah A.Ph</h1>
+<p align="center">
+  
+## `I'm Kaznarah A.Ph 👋, interested in Web/Game developement`
+
+</p>
+
 
 <h3 align="center">
   
@@ -7,18 +16,49 @@
 </h3>
 
 
-<img align="right" alt="coding" width="500" src="https://images.ctfassets.net/5965pury2lcm/5X0n22oLx9Awk3BjCp9dPf/db04623529aa360a47389a8cad4aa53e/homepage-work-animated.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amigoskazz&label=Profile%20views&color=0e75b6&style=flat" alt="amigoskazz" /> </p>
 
-- 📫 How to reach me **kaznarahandrinarivo@gmail.com**
-- Ask me about softeware/game developement
+<br><br>
+
+<p align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=737280897" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=737280897&image_size=auto&color_scheme=dark" width="815" height="auto">
+    <img alt="Activity Trends of AmigosKazz/AmigosKazz - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=737280897&image_size=auto&color_scheme=light" width="815" height="auto">
+  </picture>
+</a>
+</p>
+<br>
+<br>
+
+<p align="center">
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=127631298" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=127631298&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @AmigosKazz" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=127631298&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+</p>
+<br>
+
+<p align="center">
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month?repo_id=737280897" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=737280897&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Pushes and Commits of AmigosKazz/AmigosKazz" src="https://next.ossinsight.io/widgets/official/analyze-repo-pushes-and-commits-per-month/thumbnail.png?repo_id=737280897&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+</p>
+<br>
 
 <br><br>
 
 
+<h3 align="center">
 
-<h3 align="left">Skills & tools :</h3>
+  `Skills & tools :` 
+
+</h3>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -37,7 +77,15 @@
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
+<br><br>
 
-### ✍️ Dev Quote
+- 📫 How to reach me **kaznarahandrinarivo@gmail.com**
+- Ask me about `softeware/game developement`
+<p align="center">
+
+### `✍️ Dev Quote`
+  
+</p>
+<br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
