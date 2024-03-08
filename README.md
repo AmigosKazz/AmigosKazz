@@ -1,10 +1,16 @@
-![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
+<div align="center">
+  
+  ![MasterHead](https://media1.tenor.com/m/4F6LXZy2_4kAAAAd/vegeta-under-the-rain.gif)
+
+</div>
+
+
 <br>
 
 
-<div align="center" style="font-family: 'VT323', monospace;">
+<div align="center">
   
- ## `I'm Kaznarah A.Ph 👋, interested in Web/Game development 🚀🎮🐧`
+ ### `"May heaven be the happy world you imagined 🕊🙇‍♂️😥"`
 
 </div>
 
