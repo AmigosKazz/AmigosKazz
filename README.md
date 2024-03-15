@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![MasterHead](https://media1.tenor.com/m/4F6LXZy2_4kAAAAd/vegeta-under-the-rain.gif)
+  ![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
   
- ### `"May heaven be the happy world you imagined 🕊🙇‍♂️😥"`
+ ### `"Passion and dream are like time, nothing can stop them !"`
 
 </div>
 
