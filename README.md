@@ -26,13 +26,9 @@
 
 <br><br>
 
-<p align="center">
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=737280897" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=737280897&image_size=auto&color_scheme=dark" width="815" height="auto">
-    <img alt="Activity Trends of AmigosKazz/AmigosKazz - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=737280897&image_size=auto&color_scheme=light" width="815" height="auto">
-  </picture>
-</a>
+<p align="left">
+I'm a little guy who always dreamed of becoming a web and game developer, and I'm really having fun exploring this fascinating field.
+Every day I embark on new learning adventures because I love discovering new technologies and techniques to improve my skills.
 </p>
 <br>
 <br>
@@ -66,14 +62,19 @@
 
 </h3>
 
+<div align="center">
+  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+</div>
+
 
 
 <br><br>
