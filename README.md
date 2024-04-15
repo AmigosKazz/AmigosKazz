@@ -4,7 +4,6 @@
 
 </div>
 
-
 <br>
 
 
@@ -45,6 +44,27 @@ Fun Facts:
 <br>
 
 <br>
+
+### 📊Weekly Development Breakdown
+<br>
+<br>
+<!--START_SECTION:waka-->
+
+```txt
+From: 07 April 2024 - To: 14 April 2024
+
+Total Time: 13 hrs 30 mins
+
+TypeScript    8 hrs 16 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣀⣀⣀⣀⣀⣀⣀   60.63 %
+Java          3 hr 7 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣤⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.56 %
+Lua           59 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.01 %
+Rust          51 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.47 %
+Mardkdown     17 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.44 %
+```
+
+<!--END_SECTION:waka-->
+
+<br><br>
 
 How to reach me **kaznarahandrinarivo@gmail.com** <br>
 Ask me about `softeware/game developement`
