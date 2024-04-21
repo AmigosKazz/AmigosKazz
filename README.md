@@ -42,32 +42,16 @@ Fun Facts:
 * I prefer to share and help someone.
 * I like watching anime and playing video games.
 <br>
-
-<br>
-
-### 📊Weekly Development Breakdown
 <br>
 <br>
-<!--START_SECTION:waka-->
 
-```txt
-From: 07 April 2024 - To: 14 April 2024
 
-Total Time: 13 hrs 30 mins
+ [![kazz](https://github-readme-activity-graph.vercel.app/graph?username=AmigosKazz&theme=react-dark&line=ff69b4&color=D3D3D3)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-TypeScript    8 hrs 16 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣀⣀⣀⣀⣀⣀⣀   60.63 %
-Java          3 hr 7 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣤⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.56 %
-Lua           59 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.01 %
-Rust          51 mins         ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.47 %
-Mardkdown     17 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.44 %
-```
-
-<!--END_SECTION:waka-->
 
 <br><br>
 
 How to reach me **kaznarahandrinarivo@gmail.com** <br>
-Ask me about `softeware/game developement`
 
 
 <h3 align="left">
@@ -81,10 +65,12 @@ Ask me about `softeware/game developement`
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
 </div>
