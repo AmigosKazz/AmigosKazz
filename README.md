@@ -45,9 +45,14 @@ Fun Facts:
 <br>
 <br>
 
-
- [![kazz](https://github-readme-activity-graph.vercel.app/graph?username=AmigosKazz&theme=react-dark&line=ff69b4&color=D3D3D3)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<p align="center">
+    <a href="https://ossinsight.io/analyze/AmigosKazz">
+        <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmigosKazz&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=AmigosKazz's%20Total%20contribution%20graph%20across%20all%20repo" >
+                <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmigosKazz&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">            
+        </picture>
+    </a>
+</p>
 
 <br><br>
 
