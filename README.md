@@ -9,7 +9,7 @@
 
 <div align="center">
   
- ### `"Passion and dream are like time, nothing can stop them !"`
+ ### `"I'm a CS student interested in math and algorithms !"`
 
 </div>
 
