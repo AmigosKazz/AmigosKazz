@@ -28,7 +28,7 @@
 <p align="left">
   
 ### AmigosKazz
-I'm a little guy who always dreamed of becoming a web and game developer, and I'm really having fun exploring this fascinating field.
+I'm a little guy who always dreamed of becoming a great web and game programmer, and I'm thoroughly enjoying exploring this fascinating field. 
 Every day I embark on new learning adventures because I love discovering new technologies and techniques to improve my skills.
 </p>
 <br>
@@ -41,6 +41,8 @@ Fun Facts:
 * Third year Computer Science student.
 * I prefer to share and help someone.
 * I like watching anime and playing video games.
+* I have a beautiful GF, btw.
+* I use Arch, btw.
 <br>
 <br>
 <br>
