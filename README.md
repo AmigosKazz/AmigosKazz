@@ -30,6 +30,7 @@
 ### AmigosKazz
 I'm a little guy who always dreamed of becoming a great web and game programmer, and I'm thoroughly enjoying exploring this fascinating field. 
 Every day I embark on new learning adventures because I love discovering new technologies and techniques to improve my skills.
+I'm a Logistic Manager for the TechZara community in Fianarantsoa and is currently a third-year student in Software Engineering and Database Management at ENI.
 </p>
 <br>
 Fun Facts:
@@ -43,6 +44,8 @@ Fun Facts:
 * I like watching anime and playing video games.
 * I have a beautiful GF, btw.
 * I use Arch, btw.
+
+*  Interested in system architecture, particularly `System Design Architecture`, `clean code`, and `design patterns`.
 <br>
 <br>
 <br>
