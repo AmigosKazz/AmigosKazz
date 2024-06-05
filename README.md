@@ -9,7 +9,7 @@
 
 <div align="center">
   
- ### `"I'm a CS student interested in math and algorithms !"`
+ ### `"I'm a CS student interested in System Design Architecture !"`
 
 </div>
 
@@ -44,8 +44,8 @@ Fun Facts:
 * I like watching anime and playing video games.
 * I have a beautiful GF, btw.
 * I use Arch, btw.
-
-*  Interested in system architecture, particularly `System Design Architecture`, `clean code`, and `design patterns`.
+* Interested in system architecture, particularly `clean code`, and `design patterns`.
+* Interested in `math` and `algorithms`.
 <br>
 <br>
 <br>
