@@ -6,18 +6,11 @@
 
 <br>
 
-
-<div align="center">
-  
- ### `"I'm a CS student interested in System Design Architecture !"`
-
-</div>
-
 <br>
 
 <h3 align="center">
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=3000&pause=300&color=2D2FF7&random=false&width=435&lines=%F0%9F%92%BB+Enjoy+using+JAVA;%F0%9F%92%BB+Enjoy+using+TYPESCRIPT;%F0%9F%92%BB+Enjoy+using+RUST)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=500&color=142AAC&center=true&random=false&width=900&height=100&lines=I'm+a+full-stack+JAVA+Developer+%F0%9F%98%8E;I've+a+keen+interest+in+design+patterns;I'm+interested+in+clean+code)](https://git.io/typing-svg)
 </h3>
 
 
@@ -42,9 +35,9 @@ Fun Facts:
 * Third year Computer Science student.
 * I prefer to share and help someone.
 * I like watching anime and playing video games.
-* I have a beautiful GF, btw.
+* I've a beautiful GF, btw.
 * I use Arch, btw.
-* Interested in system architecture, particularly `clean code`, and `design patterns`.
+* I've a keen interest in `design patterns` and `clean code`.
 * Interested in `math` and `algorithms`.
 <br>
 <br>
