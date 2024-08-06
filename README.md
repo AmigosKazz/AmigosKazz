@@ -21,24 +21,22 @@
 <p align="left">
   
 ### AmigosKazz
-I'm a little guy who always dreamed of becoming a great web and game programmer, and I'm thoroughly enjoying exploring this fascinating field. 
-Every day I embark on new learning adventures because I love discovering new technologies and techniques to improve my skills.
-I'm a Logistic Manager for the TechZara community in Fianarantsoa and is currently a third-year student in Software Engineering and Database Management at ENI.
+A little guy on a journey of constant self-improvement, striving to be better than I was yesterday. Always onward and upward.
 </p>
 <br>
 Fun Facts:
 <br> <br>
 
 * I've been watching tech youtubers a lot recently like :
-   <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a> (my fav), <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-  <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> and <a href="https://www.youtube.com/@amigoscode" target="_blank">Amigoscode</a> .
+   <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a> (my fav), <a href="https://www.youtube.com/@Fireship" target="_blank">Fireship</a>(for news in tech and code reports),
+   <a href="https://www.youtube.com/@GregHogg" target="_blank">GregHogg</a>(for DSA) , <a href="https://www.youtube.com/@ByteByteGo" target="_blank">ByteByteGo</a>(for system design) and <a href="https://www.youtube.com/@amigoscode" target="_blank">Amigoscode</a>.
 * Third year Computer Science student.
 * I prefer to share and help someone.
 * I like watching anime and playing video games.
 * I've a beautiful GF, btw.
 * I use Arch, btw.
-* I've a keen interest in `design patterns` and `clean code`.
-* Interested in `math` and `algorithms`.
+* I've a keen interest in `system design` and `DSA`.
+* I prefer to spend my time on `LeetCode` to improve my coding skills.
 <br>
 <br>
 <br>
