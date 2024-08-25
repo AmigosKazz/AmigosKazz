@@ -50,6 +50,12 @@ Fun Facts:
     </a>
 </p>
 
+<p align="center"> 
+  
+<img src="https://leetcard.jacoblin.cool/amigoskazz?theme=dark&font=Noto%20Sans%20Mongolian&ext=contest" width="80%" alt="activity graph">       
+  
+</p>
+
 
 
 </div>
