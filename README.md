@@ -3,12 +3,16 @@
 
 <p align="left">
   
-Hey my name's **_Kaznarah Andrinarivo_** but you can just call me _Amigoskazz_, I'm more comfortable with that :D
+Hey my name's **Kaznarah Andrinarivo** but you can just call me _Amigoskazz_, I'm more comfortable with that :D
 
-Currently, I'm software devloper and I enjoy building awesome project using **java** && **typescript**.
-I love solving challenging problems. Here my _[leetcode](https://leetcode.com/u/amigoskazz/)_ profile.
+I'm a software craftamanship, a solver of riddles wrapped in code. My tools are `Java` and `TypeScript`, my compass the principles of _Clean Architecture_ and _SOLID design_. By daylight, I craft _layered architectures_ and practice the rituals of _TDD_, chasing that elusive "perfect abstraction." By starlight, I venture into the labyrinth of _memory management_.
+My days are punctuated by LeetCode puzzles (Here my _[leetcode](https://leetcode.com/u/amigoskazz/)_ profile :D), tiny battles to sharpen the blade. My nights belong to projects that blur the line between obsession and art. And yes, somewhere in the chaos, I’m learning to build software that might one day feel alive.
 
-Right now, I'm working on buiding _my own game_, exploring how _memory_ works under the hood and learning to build ultimately craft really _awesome software_.
+BTW, I’ve an awesome _sensei_; a mentor I’d wager is the finest to ever grace this craft. Their wisdom is the quiet hum beneath every line I write, every problem I untangle. 
+And I think the best sensei ever >>> :D
+
+
+Everything about me and my projects is available on [my website](https://amigoskazz.me/me/).
 
 </br>
 </br>
