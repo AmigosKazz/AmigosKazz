@@ -20,6 +20,7 @@ public class AmigosKazz extends SoftwareEngineer implements SoftwareCraftsman {
     public void getTheJobDone(Job job) {
       // Implementation goes here
     }
+}
 ```
   
 
