@@ -3,7 +3,8 @@
 <p align="left">
 
 #### Hey there! 👋
-I am a generalist. I am most engaged when working on hard problems that I have not yet wrapped my brain around.
+I am a generalist. I am most engaged when working on hard problems that I have not yet wrapped my brain around. </br>
+Btw I never let if I'm curious about something, I go and purse it and I explore it. And I never let how complicated learing it is determine from pursing it. And I've become comfortable with being uncomfortable learing something new. And actually that give me a joy and kick to the point where it became sort of an addiction.
 
 Sometimes I think I’ve forgotten how to have fun. Still, I find many ways to waste my time by dissociating and not being able to enjoy the present.
 I have lots of issues I’ve never dealt with or come to terms with, that mostly come from some severe PTSD. I used to think it was just the way I had to build myself to survive and then live, and in some ways it is true. There are also things I became that I don’t really like and have become more and more tired of over the years. 
