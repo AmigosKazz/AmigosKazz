@@ -3,7 +3,7 @@
 <p align="left">
 
 #### Hey there! 👋
-My name is Kaznarah or just Kazz. I'm a mid-level software engineer with 2y+ experiences and also full-time amateur time-waster xD
+My name is Kaznarah or just Kazz. I'm a mid-level software engineer with 2y+ experiences and also full-time amateur time-waster.
 </br>
 
 By day I’m a backend developer who also works on frontend tasks (though less frequently).
